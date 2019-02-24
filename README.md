@@ -1,5 +1,3 @@
-
-
 # ipLocation
 I coded this class for have some informations from ip.
 This class use http://ip-api.com/.
@@ -9,9 +7,10 @@ If you have a question or just want talk with me, you can come on [my Twitter](h
 ## How to use
 It's simple. You can have informations in differentes format :
  - Array
+ - Object
  - JSON
  - XML
- - Serialized 
+ - Serialized
 
 ### Array
 Code :
