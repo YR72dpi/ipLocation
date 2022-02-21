@@ -2,7 +2,7 @@
 I coded this class for have some informations from ip.
 This class use http://ip-api.com/.
 
-If you have a question or just want talk with me, you can come on [my Twitter](https://twitter.com/DevIl00110000).
+If you have a question or just want talk with me, you can come on [my Twitter](https://twitter.com/YR72dpi).
 
 ## How to use
 It's simple. You can have informations in differentes format :
